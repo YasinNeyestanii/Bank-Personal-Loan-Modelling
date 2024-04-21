@@ -8,7 +8,7 @@ In this repository, I have placed the data used in the model training and the pa
 - KNN model
 - LOGRSTIC REGRESSION model
 - confusion matrix
-- improve my model and Bringing the model to 95% accuracy In each model
+- improve my model and Bringing the model to 95% accuracy in each model
 
   
 # About Dataset :
